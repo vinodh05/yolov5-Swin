@@ -53,7 +53,7 @@ python train.py --img 1024 --adam --batch 1 --epochs 80 --data ./data/viso.yaml 
 # Running pre-trained checkpoints
 Best runs are saved in runs/train/Viso/Results
 
-# The code is highly borrowed from [TransVisDrone] (https://github.com/tusharsangam/TransVisDrone/tree/main)
+The code is highly borrowed from [TransVisDrone](https://github.com/tusharsangam/TransVisDrone/tree/main)
 
 
 # References
