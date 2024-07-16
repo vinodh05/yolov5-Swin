@@ -1,0 +1,18 @@
+path: /mnt/DATA/EE24D001/Desktop/Final/yolov5-swin/Dataset
+train: train/images
+val: val/images
+
+annotation_path: /mnt/DATA/EE24D001/Desktop/Final/yolov5-swin/Dataset
+annotation_train: train/labels
+annotation_val: val/labels
+
+video_root_path: /mnt/DATA/EE24D001/Desktop/Final/yolov5-swin/Dataset
+video_root_path_train: train/videos
+video_root_path_val: val/videos
+
+
+# # Classes
+nc: 4  # number of classes
+names: ['car','airplane','ship','train']
+
+

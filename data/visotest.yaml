@@ -1,0 +1,10 @@
+
+test:/mnt/DATA/EE24D001/Desktop/Final/yolov5-swin/Dataset/test/images
+
+
+video_root_path_test: /mnt/DATA/EE24D001/Desktop/Final/yolov5-swin/Dataset/test/videos
+
+
+# # Classes
+nc: 4  # number of classes
+names: ['ship','train','car','airplane']
